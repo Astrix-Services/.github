@@ -8,17 +8,16 @@ At Astrix Operations, we specialize in a variety of services, including:
 
 - **Software Development:** Building scalable, user-friendly applications for web, mobile, and desktop platforms.
 - **Minecraft Solutions:** Crafting custom plugins, mods, and organizing events to enhance the Minecraft experience.
-¡Claro! Aquí tienes la sección en inglés con un enfoque único:  
 
-## Current Projects  
+<!-- ## Current Projects  
 
 MineLuxe is a Minecraft server crafted to deliver an engaging and innovative gaming experience. With a focus on unique gameplay and a vibrant community, MineLuxe offers challenges and adventures for all kinds of players.  
 
 - **Featured Game Modes:** Survival Hardcore, Survival Custom, Prison, and SkyBlock.  
 - **Supported Versions:** 1.8 - 1.20.  
 - **Server IP:** `play.mineluxe.net`  
-- **Website:** [MineLuxe](https://mineluxe.net)  
-- **Join the Community:** [Official Discord](https://discord.mineluxe.net)
+- **Website:** [MineLuxe](https://mineluxe.net)
+- **Join the Community:** [Official Discord](https://discord.mineluxe.net) -->
 
 ## Meet Our Team
 
@@ -36,5 +35,4 @@ Together, we leverage our skills and experience to tackle complex challenges and
 
 Are you interested in collaborating with Astrix Operations or learning more about our projects? We’d love to hear from you! Reach out to us via:
 
-- **Email:** [astrixservice@gmail.com](mailto\:astrixservice@gmail.com)
-- **Website:** [astrix.gg](http://astrix.gg)
+- **Email:** [astrixoperations@gmail.com](mailto\:astrixoperations@gmail.com)
