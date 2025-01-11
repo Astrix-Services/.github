@@ -35,4 +35,4 @@ Together, we leverage our skills and experience to tackle complex challenges and
 
 Are you interested in collaborating with Astrix Operations or learning more about our projects? We’d love to hear from you! Reach out to us via:
 
-- **Email:** [astrixoperations@gmail.com](mailto\:astrixoperations@gmail.com)
+- **Email:** [astrix@operations.club](mailto\:astrix@operations.club)
