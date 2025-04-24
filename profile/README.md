@@ -28,7 +28,6 @@ Our success is powered by a dynamic team of experts committed to excellence and 
 - **NoWacho** - [GitHub Profile](https://github.com/Nowacho)
 - **NosiDev** - [GitHub Profile](https://github.com/NosiDev)
 - **Zyran** - [GitHub Profile](https://github.com/zyrandev)
-- **ThanksMojan** - [GitHub Profile](https://github.com/ThanksMojan)
 - **Yair Soto** - [GitHub Profile](https://github.com/y4irr)
 
 Together, we leverage our diverse skills and experience to tackle complex challenges and deliver transformative results.
