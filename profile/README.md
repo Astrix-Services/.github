@@ -22,9 +22,6 @@ We specialize in enhancing gaming experiences with particular expertise in Minec
 We're driven by a passionate team of technology experts committed to excellence:
 
 - **NoWacho** - [GitHub Profile](https://github.com/Nowacho)
-- **NosiDev** - [GitHub Profile](https://github.com/NosiDev)
-- **Zyran** - [GitHub Profile](https://github.com/zyrandev)
-- **Yair Soto** - [GitHub Profile](https://github.com/y4irr)
 
 ## 🐬 Dolphin Detection
 
